@@ -22,7 +22,6 @@ Acesse: [FARMACO-IA Portal](https://seu-usuario.github.io/farmaco-ia/)
 
 - 👩‍⚕️ **Daniella Carvalho** - Coordenação
 - 👨‍⚕️ **Dr. Felipe Jesus** - Odontologia  
-- 👨‍🏫 **Prof. Eric de Jesus** - Anestesia
 - 👨‍💻 **Harrison R. Costa** - Desenvolvedor
 - 👩‍🔬 **Caroline Azevedo** - FARMACO-IA
 
